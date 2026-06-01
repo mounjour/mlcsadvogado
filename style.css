@@ -1151,6 +1151,7 @@ body {
     .hero-content img{
         display: flex;
         width: 100px;
+        margin-bottom: 15px;
     }
     .section-title {
         font-size: 2rem;

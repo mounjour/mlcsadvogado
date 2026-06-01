@@ -1177,7 +1177,8 @@ body {
         font-size: .9rem;
     }
     .hero-subtitle {
-        font-size: 1.2rem;
+        font-size: 1.0rem;
+        margin-bottom:15px;
     }
     
     .process-timeline::before {
